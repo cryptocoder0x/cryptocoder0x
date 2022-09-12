@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
 
 ### What i do ?
-[Believer](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=bitcoin)&nbsp; 
+![Believer](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=bitcoin)&nbsp; 
 
 ### 🛠 &nbsp;Tech Stack
 
