@@ -14,6 +14,7 @@ Here are some ideas to get you started:-->
 ### What i do ?
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=bitcoin) &nbsp; 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum) &nbsp; 
+![OKSE](https://img.shields.io/badge/-OKSE-05122A?style=flat&logo=okse) &nbsp; 
 
 
 ### 🛠 &nbsp;Tech Stack
