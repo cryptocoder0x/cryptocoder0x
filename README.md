@@ -8,7 +8,6 @@ Here are some ideas to get you started:-->
 - 💻 Currently building PCI complaint decentralised structure to avoid data leakage and breaches in case of any data exfiltration attacks 
 - 👯 I’m looking to collaborate on new data security projects in web3 ecosystem 
 - 💬 Ask me about building Scalable Architecture on Web2 and Web3, also Salesfore :wink:
-- 📫 Reach me on [Linkedin](www.linkedin.com/in/cryptocoder)
 - 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
 
 ### :crystal_ball: I Believe in :muscle:
