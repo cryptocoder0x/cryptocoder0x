@@ -11,6 +11,9 @@ Here are some ideas to get you started:-->
 - 📫 Reach me on [Linkedin](www.linkedin.com/in/cryptocoder)
 - 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
 
+### What i do ?
+https://img.shields.io/badge/-Git-05122A?style=flat&logo=bitcoin
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -31,4 +34,5 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/_cryptocoder_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/cryptocoder"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:rohitchangediya@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
