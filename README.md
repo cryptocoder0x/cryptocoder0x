@@ -17,7 +17,6 @@ Here are some ideas to get you started:-->
 ![OKSE](https://img.shields.io/badge/-OKSE-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEmSURBVHgBdZG7SgNBFIZ3x41BJeqyURCjhRZilRTiW/jCvkDa2KZQECMWLoEUXiBm/f7kH5gUe+DjzDlzrjNZ1iJN0wygarsPDqpgCPu2pW9gxLkA+TpwB4eKKVxAxgX0uZigB7DnuxG8WMtXwyImxpF08QBdmMEO3MMtzB1zlHaMibtw7kTpldc5AU3yF2MDo6lCx4kxqYRr71m681WcSnurWs+OvitLDtwpjp+5QOnzWUjGjGNLvlrOXeteiMsiH7Dw+TsJ/rWeO0ZShcSQ6NmXSfDKRWS/JnF1kef5lGX1N0M73+HSCY19Mydr7Cdy6vVeOpA8zjavKDmGH3f8NM8wJXa59SA41GFCAQXpv07dRQljFU9G3XrJWODNo69NeIxdUvkHA25wA/GwwcgAAAAASUVORK5CYII=) &nbsp; 
 
 [![Website](https://img.shields.io/website?label=genxhq.in&style=for-the-badge&url=https://genxhq.in)](https://genxhq.in)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/developer-devo&screen_name=_cryptocoder_) <!--  -->
 
 ### 🛠 &nbsp;Tech Stack
