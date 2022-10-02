@@ -32,11 +32,11 @@ Here are some ideas to get you started:-->
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Crypto Coders GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-devo)](https://github.com/anuraghazra/github-readme-stats)
+![Crypto Coders GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-devo)]
 
 ![Crypto Coders Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer-devo&theme=darcula&hide_border=true)
 
-![Crypto Coders Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-devo&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<!-- ![Crypto Coders Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-devo&theme=darcula&show_icons=true&hide_border=true&layout=compact) -->
 
 
 ### 📫 &nbsp; How to reach me:
