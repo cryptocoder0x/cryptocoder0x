@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 💡 I’m currently working as CTO at [OKSE](https://okse.io) and building [TokenXplorer](https://twitter.com/TokenXplorer)
+- 💡 I’m currently working with multiple projects and building [DMME.cash](https://dmme.cash)
 - 👯 I’m looking to collaborate on new data security projects in web3 ecosystem 
 - 💬 Ask me about building Scalable Architecture on Web2 and Web3, also [Salesforce](https://salesforce.com) :wink:
 - 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
@@ -14,8 +14,8 @@ Here are some ideas to get you started:-->
 ### :crystal_ball: I Believe in :muscle:
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=bitcoin) &nbsp; 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum) &nbsp; 
-![OKSE](https://img.shields.io/badge/-OKSE-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEmSURBVHgBdZG7SgNBFIZ3x41BJeqyURCjhRZilRTiW/jCvkDa2KZQECMWLoEUXiBm/f7kH5gUe+DjzDlzrjNZ1iJN0wygarsPDqpgCPu2pW9gxLkA+TpwB4eKKVxAxgX0uZigB7DnuxG8WMtXwyImxpF08QBdmMEO3MMtzB1zlHaMibtw7kTpldc5AU3yF2MDo6lCx4kxqYRr71m681WcSnurWs+OvitLDtwpjp+5QOnzWUjGjGNLvlrOXeteiMsiH7Dw+TsJ/rWeO0ZShcSQ6NmXSfDKRWS/JnF1kef5lGX1N0M73+HSCY19Mydr7Cdy6vVeOpA8zjavKDmGH3f8NM8wJXa59SA41GFCAQXpv07dRQljFU9G3XrJWODNo69NeIxdUvkHA25wA/GwwcgAAAAASUVORK5CYII=) &nbsp; 
-
+<!-- ![OKSE](https://img.shields.io/badge/-OKSE-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEmSURBVHgBdZG7SgNBFIZ3x41BJeqyURCjhRZilRTiW/jCvkDa2KZQECMWLoEUXiBm/f7kH5gUe+DjzDlzrjNZ1iJN0wygarsPDqpgCPu2pW9gxLkA+TpwB4eKKVxAxgX0uZigB7DnuxG8WMtXwyImxpF08QBdmMEO3MMtzB1zlHaMibtw7kTpldc5AU3yF2MDo6lCx4kxqYRr71m681WcSnurWs+OvitLDtwpjp+5QOnzWUjGjGNLvlrOXeteiMsiH7Dw+TsJ/rWeO0ZShcSQ6NmXSfDKRWS/JnF1kef5lGX1N0M73+HSCY19Mydr7Cdy6vVeOpA8zjavKDmGH3f8NM8wJXa59SA41GFCAQXpv07dRQljFU9G3XrJWODNo69NeIxdUvkHA25wA/GwwcgAAAAASUVORK5CYII=) &nbsp; 
+ -->
 <!--[![Support](https://img.shields.io/website?label=help.okse.io&style=for-the-badge&url=https://help.okse.io)](https://help.okse.io)-->
 <!--[![Website](https://img.shields.io/website?label=okse.io&style=for-the-badge&url=https://okse.io)](https://okse.io)-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/developer-devo&screen_name=_cryptocoder_) <!--  -->
