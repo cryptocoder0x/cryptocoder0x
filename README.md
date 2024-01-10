@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
  -->
 <!--[![Support](https://img.shields.io/website?label=help.okse.io&style=for-the-badge&url=https://help.okse.io)](https://help.okse.io)-->
 <!--[![Website](https://img.shields.io/website?label=okse.io&style=for-the-badge&url=https://okse.io)](https://okse.io)-->
-[![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/developer-devo&screen_name=_cryptocoder_) <!--  -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rohit-changediya&screen_name=_cryptocoder_) <!--  -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:-->
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Crypto Coders GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-devo)
+![Crypto Coders GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-changediya)
 
-![Crypto Coders Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer-devo&theme=light&hide_border=true)
+![Crypto Coders Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit-changediya&theme=light&hide_border=true)
 
 <!-- ![Crypto Coders Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-devo&theme=darcula&show_icons=true&hide_border=true&layout=compact) -->
 
