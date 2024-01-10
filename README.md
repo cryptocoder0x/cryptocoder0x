@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 
 ![Crypto Coders GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-changediya)
 
-![Crypto Coders Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit-changediya&theme=light&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohit-changediya)](https://git.io/streak-stats)
 
 <!-- ![Crypto Coders Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-devo&theme=darcula&show_icons=true&hide_border=true&layout=compact) -->
 
