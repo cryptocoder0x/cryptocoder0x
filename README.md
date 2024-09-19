@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 💡 I’m currently working with multiple projects and building [Julswap](https://julswap.com)
+- 💡 I’m currently working with multiple projects and building [YCIYC](https://yciyc.com)
 - 👯 I’m looking to collaborate on new data security projects in web3 ecosystem 
 - 💬 Ask me about building Scalable Architecture on Web2 and Web3, also [Salesforce](https://salesforce.com) :wink:
 - 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
