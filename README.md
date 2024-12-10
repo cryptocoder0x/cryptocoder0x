@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:-->
 
-- 💡 I’m currently working with multiple projects and building [YCIYC](https://yciyc.com)
-- 👯 I’m looking to collaborate on new data security projects in web3 ecosystem 
-- 💬 Ask me about building Scalable Architecture on Web2 and Web3, also [Salesforce](https://salesforce.com) :wink:
-- 🌱 I like learning new technologies and like exploring new tools that can help me and my projects grow :rocket:
+- 💡 I’m currently building a flywheel 🎡
+- 👯 I’m open to collaborate on new product ideas, reachable on social media below 👇🏼
+- 💬 Ask me about building apps on web3, salesforce, telegram mini apps.
+- 🌱 I like learning new technologies and exploring new ideas which can add value to user expereince on web3
 
 <!-- - 💻 Currently building PCI complaint decentralised structure to avoid data leakage and breaches in case of any data exfiltration attacks -->
 
