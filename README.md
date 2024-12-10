@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 💡 I’m currently building a flywheel 🎡
+- 💡 Currently building a flywheel 🎡
 - 👯 I’m open to collaborate on new product ideas, reachable on social media below 👇🏼
 - 💬 Ask me about building apps on web3, salesforce, telegram mini apps.
 - 🌱 I like learning new technologies and exploring new ideas which can add value to user expereince on web3
