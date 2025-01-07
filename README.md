@@ -6,8 +6,9 @@ Here are some ideas to get you started:-->
 
 - 💡 Currently building a flywheel 🎡
 - 👯 I’m open to collaborate on new product ideas, reachable on social media below 👇🏼
-- 💬 Ask me about building apps on web3, salesforce, telegram mini apps.
+- 💬 Ask me about building apps on web3, salesforce, telegram mini apps, AI.
 - 🌱 I like learning new technologies and exploring new ideas which can add value to user expereince on web3
+- Recently built AI EVM agent <a href="[https://twitter.com/_cryptocoder_](https://terminal.julswap.com/)"> Click here to access</a>
 
 <!-- - 💻 Currently building PCI complaint decentralised structure to avoid data leakage and breaches in case of any data exfiltration attacks -->
 
