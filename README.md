@@ -8,8 +8,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m open to collaborate on new product ideas, reachable on social media below 👇🏼
 - 💬 Ask me about building apps on web3, salesforce, telegram mini apps, AI.
 - 🌱 I like learning new technologies and exploring new ideas which can add value to user expereince on web3
-- Recently built AI EVM agent <a href="[https://twitter.com/_cryptocoder_](https://terminal.julswap.com/)"> Click here to access</a>
-
+- Recently built AI EVM agent ![Cick here to access](https://terminal.julswap.com/)
 <!-- - 💻 Currently building PCI complaint decentralised structure to avoid data leakage and breaches in case of any data exfiltration attacks -->
 
 ### :crystal_ball: I Believe in :muscle:
