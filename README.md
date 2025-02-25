@@ -43,7 +43,7 @@ Here are some ideas to get you started:-->
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://twitter.com/_cryptocoder_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
-<!-- <a href="https://linkedin.com/in/cryptocoder"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; -->
 <a href="mailto:hello@cryptocoder.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<!-- <a href="https://linkedin.com/in/cryptocoder"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; -->
 
 
