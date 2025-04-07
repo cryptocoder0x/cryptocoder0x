@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
  -->
 <!--[![Support](https://img.shields.io/website?label=help.okse.io&style=for-the-badge&url=https://help.okse.io)](https://help.okse.io)-->
 <!--[![Website](https://img.shields.io/website?label=okse.io&style=for-the-badge&url=https://okse.io)](https://okse.io)-->
-[![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rohit-changediya&screen_name=_cryptocoder_) <!--  -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/_cryptocoder_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rohit-changediya&screen_name=cryptocoder0x) <!--  -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:-->
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://twitter.com/_cryptocoder_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
+<a href="https://twitter.com/cryptocoder0x"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="mailto:hello@cryptocoder.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <!-- <a href="https://linkedin.com/in/cryptocoder"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; -->
 
