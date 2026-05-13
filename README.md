@@ -62,7 +62,7 @@ Focused on AI for enterprise systems, production code intelligence, and data sou
 
 ### 📫 Reach Me
 
-<a href="mailto:hello@yourdomain.com">
+<a href="mailto:rohit@bhavitech.in">
 <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
