@@ -23,6 +23,8 @@ Focused on AI for enterprise systems, production code intelligence, and data sou
 - Enterprise workflow automation using AI
 - Applied AI systems for operations, support, and internal productivity
 
+➡️ Find more details at [bhavitech.in](https://bhavitech.in/) — private engineering artifacts for AI training, evaluation benchmarks, and enterprise AI systems.
+
 ---
 
 ### 🧠 I Believe In
