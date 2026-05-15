@@ -67,7 +67,6 @@ Focused on AI for enterprise systems, production code intelligence, and data sou
 <a href="mailto:rohit@bhavitech.in">
 <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/rohitchangediya/">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
