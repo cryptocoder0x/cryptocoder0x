@@ -68,10 +68,9 @@ Focused on AI for enterprise systems, production code intelligence, and data sou
 <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/rohitchangediya/">
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
 <!-- Add LinkedIn / Twitter if needed -->
 
----
-
-### 🚀 Mission
-
-Turning messy real-world production systems into high-signal datasets that make AI agents actually useful in enterprise environments.
